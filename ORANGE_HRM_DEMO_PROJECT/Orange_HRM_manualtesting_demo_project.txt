@@ -1,0 +1,12 @@
+-------------MANUAL TESTING PROJECT-------------------------
+
+Project Introduction
+
+*  Understanding and Explore the functionality
+*  Test Plan
+*  Writing Test Scenarios
+*  Writing Test cases
+*  Test Executon
+*  Identify the bugs, Bug Reporting & Tracking
+*  Sanity Testing, Re-testing & regression testing
+*  Closure
